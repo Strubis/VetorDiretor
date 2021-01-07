@@ -1,1 +1,1 @@
-# Teste
+Application developed for calculating the vector director in the discipline of Linear Algebra.
